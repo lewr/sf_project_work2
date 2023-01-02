@@ -49,4 +49,4 @@ Feature и baugfix оформляем СТРОГО в Issues.
     git commit -a -m 'описание коммита'
     git push origin
 
-Далее на странице [репозитория](https://github.com/lewr/sf_project_work2 "репозиторий") необходимо создать pull request. Исходная ветка - ту что залили, целевая ветка - main (в случае feature) или stable (в случае bugfix). После code review необходимо сожать кнопку merge.
+Далее на странице [репозитория](https://github.com/lewr/sf_project_work2 "репозиторий") необходимо создать pull request. Исходная ветка - ту что залили, целевая ветка - main (в случае feature) или stable (в случае bugfix). После code review необходимо нажать кнопку merge.
